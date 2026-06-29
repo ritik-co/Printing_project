@@ -12,7 +12,7 @@
 
 $host     = "localhost";
 $user     = "root";              // ← change to your DB username
-$password = "Ritik@150320";  // ← change to your DB password
+$password = "Ritik@******";  // ← change to your DB password
 $dbname   = "print_system";
 
 $conn = new mysqli($host, $user, $password, $dbname);
