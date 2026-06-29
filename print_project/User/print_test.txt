@@ -1,0 +1,3 @@
+2026-06-09 10:39:40 | Printing file: C:\New Folder\htdocs\2.0\User/uploads/1780994354_Ritik_Kumar_CV_Updated.pdf
+2026-06-09 10:51:52 | Job ID: 106 | File Path: C:\New Folder\htdocs\2.0\User/uploads/1780995086_Ritik_Kumar_CV_Updated.pdf
+2026-06-09 11:26:36 | Job ID: 108 | File Path: C:\New Folder\htdocs\2.0\User/uploads/1780997172_Ritik_Kumar_CV_Updated.pdf
